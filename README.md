@@ -30,8 +30,8 @@ sudo python3 network_sniffer.py -i eth0 -c 10
 *To capture traffic on your own machine for testing, use the loopback interface (`-i lo`).*
 
 ## 🖼️ Proof of Concept
-![Sniffer Output](screenshots/sniffer_output.png)
-![Ping Traffic](screenshots/ping_traffic.png)
+![Sniffer Output](screenshots/sniffer_output.jpg)
+![Ping Traffic](screenshots/ping_traffic.jpg)
 
 ## ⚠️ Disclaimer
 This tool is created for **educational purposes only** as part of an internship program. Do not use this tool on networks you do not own or have explicit permission to test.
